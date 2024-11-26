@@ -1,7 +1,7 @@
 [
     {
         "name": "_ga_B9CY1C9VBC",
-        "value": "GS1.1.1732588955.2.0.1732588956.0.0.0",
+        "value": "GS1.1.1732591532.3.1.1732592350.0.0.0",
         "domain": ".mozilla.org",
         "hostOnly": false,
         "path": "/",
@@ -11,7 +11,7 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1767148956,
+        "expirationDate": 1767152350,
         "storeId": null
     },
     {
@@ -26,37 +26,37 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1767148955,
-        "storeId": null
-    },
-    {
-        "name": "_gat",
-        "value": "1",
-        "domain": ".mozilla.org",
-        "hostOnly": false,
-        "path": "/",
-        "secure": false,
-        "httpOnly": false,
-        "sameSite": "no_restriction",
-        "session": false,
-        "firstPartyDomain": "",
-        "partitionKey": null,
-        "expirationDate": 1732589014,
+        "expirationDate": 1767152337,
         "storeId": null
     },
     {
         "name": "_gid",
         "value": "GA1.2.2089812970.1732508978",
-        "domain": ".mozilla.org",
-        "hostOnly": false,
+        "domain": "addons.mozilla.org",
+        "hostOnly": true,
         "path": "/",
-        "secure": false,
-        "httpOnly": false,
+        "secure": true,
+        "httpOnly": true,
         "sameSite": "no_restriction",
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1732675354,
+        "expirationDate": 1732678737,
+        "storeId": null
+    },
+    {
+        "name": "sessionid",
+        "value": "8mgypjzvlwxsu153aivy23rqjxnaqhsg",
+        "domain": "addons.mozilla.org",
+        "hostOnly": true,
+        "path": "/",
+        "secure": false,
+        "httpOnly": true,
+        "sameSite": "lax",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1732596104,
         "storeId": null
     }
 ]
