@@ -1,7 +1,7 @@
 [
     {
         "name": "_ga_B9CY1C9VBC",
-        "value": "GS1.1.1732591532.3.1.1732592350.0.0.0",
+        "value": "GS1.1.1732761102.6.0.1732761104.0.0.0",
         "domain": ".mozilla.org",
         "hostOnly": false,
         "path": "/",
@@ -11,7 +11,7 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1767152350,
+        "expirationDate": 1767321104,
         "storeId": null
     },
     {
@@ -26,7 +26,22 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1767152337,
+        "expirationDate": 1767321102,
+        "storeId": null
+    },
+    {
+        "name": "_gat",
+        "value": "1",
+        "domain": ".mozilla.org",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1732761161,
         "storeId": null
     },
     {
@@ -42,6 +57,21 @@
         "firstPartyDomain": "",
         "partitionKey": null,
         "expirationDate": 1732678737,
+        "storeId": null
+    },
+    {
+        "name": "_gid",
+        "value": "GA1.2.1803765875.1732761101",
+        "domain": ".mozilla.org",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1732847501,
         "storeId": null
     },
     {
